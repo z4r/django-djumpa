@@ -1,0 +1,5 @@
+.DS_Store
+*.pyc
+doc/_build/*
+.idea/
+*.sh
