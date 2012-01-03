@@ -15,7 +15,7 @@ Cloning repos::
 
 Pip::
 
-    pip install git+https://github.com/z4r/django-djumpa
+    $ pip install git+https://github.com/z4r/django-djumpa
 
 
 Documentation
@@ -28,4 +28,4 @@ You can generate your own local copy using `Sphinx`_ trough the setup.py::
 Or simply click `Djumpa Documentation`_
 
 .. _Sphinx: http://sphinx.pocoo.org
-.. _Dynamite Documentation: http://z4r.github.com/django-djumpa/
+.. _Djumpa Documentation: http://z4r.github.com/django-djumpa/
